@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-An X/O game
+Our old school classic x/o game
